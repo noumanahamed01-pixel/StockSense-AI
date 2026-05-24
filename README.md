@@ -9,7 +9,7 @@ Stock Market Analytics and Trend Prediction System
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
 </p>
 <p align="center">
-  <b>BCA Final Year Project &nbsp;|&nbsp; 2024 – 2025</b>
+  <b>BCA Final Year Project &nbsp;|&nbsp; 2025 – 2026</b>
 </p>
 
 # #📌 Table of Contents
@@ -128,7 +128,7 @@ CategoryTechnologyVersionLanguagePython3.10+Data Collectionyfinance1.2.0Data Pro
 
 # ⚙️ Installation
 Step 1 — Clone the repository
-bashgit clone https://github.com/yourusername/StockSense-AI.git
+bashgit clone https://github.com/noumanahamed01-pixel/StockSense-AI.git
 cd StockSense-AI
 Step 2 — Create a virtual environment
 bashpython -m venv venv
@@ -275,5 +275,5 @@ This project is licensed under the MIT License — free to use, modify, and shar
 <p align="center">
   Made with ❤️ using Python & Streamlit
   <br><br>
-  <b>StockSense AI — BCA Final Year Project 2024-2025</b>
+  <b>StockSense AI — BCA Final Year Project 2025-2026</b>
 </p>

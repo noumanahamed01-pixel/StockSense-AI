@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\nouma\\OneDrive\\Documents\\StockSense-AI\\venv\\Scripts\\python.exe",
+    "python.testing.pytestArgs": [
+        "Notebooks"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

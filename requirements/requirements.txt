@@ -1,0 +1,32 @@
+# StockSense AI - Requirements
+# BCA Final Year Project
+# Install all dependencies using:
+# pip install -r requirements.txt
+ 
+# Data Collection
+yfinance==1.2.0
+ 
+# Data Processing
+pandas==2.3.3
+numpy==2.4.3
+ 
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
+plotly==6.6.0
+ 
+# Machine Learning
+scikit-learn==1.8.0
+scipy==1.17.1
+joblib==1.5.3
+ 
+# Web Dashboard
+streamlit==1.55.0
+
+#backend api
+flask==2.3.2
+flask-cors==3.0.10
+ 
+# Notebook Support
+jupyter==1.1.1
+ipykernel==7.2.0
